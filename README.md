@@ -1,4 +1,4 @@
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 - 🎓 Graduate student in Business Analytics & Artificial Intelligence at UT Dallas  
 - 📊 Passionate about using data to uncover insights and automate processes and drive smarter decisions 
 - 🧠 Skilled in machine learning, data visualization, and cloud-based analytics  
