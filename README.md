@@ -7,15 +7,15 @@
 
 
 ## 🧰 Tech Stack & Tools
----
-### 🖥️ Programming Languages 
+#### 🖥️ Programming Languages 
 [![My Skills](https://skillicons.dev/icons?i=python,r,c,html,js,matlab,latex)](https://skillicons.dev)
+
 #### 🗄️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
----
+
 #### ☁️ Cloud, DevOps & Big Data  
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,kafka,anaconda)](https://skillicons.dev)
----
+
 #### ⚙️ Tools & Platforms 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
