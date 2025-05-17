@@ -6,13 +6,10 @@
 - 🤝 Enjoy mentoring peers, publishing research, and exploring tech for good
 
 
-## 💻 Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,,aws,azure,gcp,mongodb,postgres,docker,kubernetes,anaconda,c,github,html,js,kafka,latex,matlab,vscode,)](https://skillicons.dev)
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) 
-
 ## 🧰 Tech Stack & Tools
+---
+### 🖥️ Programming Languages 
+[![My Skills](https://skillicons.dev/icons?i=python,r,c,html,js,matlab,latex)](https://skillicons.dev)
 #### 🗄️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ---
