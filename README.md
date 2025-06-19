@@ -42,7 +42,7 @@ Here are some of the projects I’m most proud of:
 |--------|-------------|
 | 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Delivery time prediction using XGBoost with 190K+ order records |
 | 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Machine learning pipeline with 98% accuracy using PCA and Scikit-learn |
-| 🗺️ [Location Recommender System](https://github.com/deepaliattavar/Location-Recommender-System) | Personalized location engine using K-Means & filtering — [Published in AICDMB 2023](https://doi.org/10.1201/9781003363781-32) |
+| 🗺️ [Location Recommender System](https://github.com/deepaliattavar/Location_Recommender_System) | Personalized location engine using K-Means & filtering — [Published in AICDMB 2023](https://doi.org/10.1201/9781003363781-32) |
 | 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Real-time parking automation using MySQL; handled 700+ weekly transactions |
 | 🌍 [Eurovision Network Analysis](https://github.com/deepaliattavar/Eurovision-Network-Analysis) | Graph-based insights into voting behavior using NetworkX & Matplotlib |
 
