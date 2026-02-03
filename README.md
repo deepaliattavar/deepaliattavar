@@ -40,11 +40,11 @@ Here are some of the projects I’m most proud of:
 
 | Project | Description |
 |--------|-------------|
-| 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Delivery time prediction using XGBoost with 190K+ order records |
-| 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Machine learning pipeline with 98% accuracy using PCA and Scikit-learn |
-| 🗺️ [Location Recommender System](https://github.com/deepaliattavar/Location_Recommender_System) | Personalized location engine using K-Means & filtering — [Published in AICDMB 2023](https://doi.org/10.1201/9781003363781-32) |
-| 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Real-time parking automation using MySQL; handled 700+ weekly transactions |
-| 🌍 [Eurovision Network Analysis](https://github.com/deepaliattavar/Eurovision-Network-Analysis) | Graph-based insights into voting behavior using NetworkX & Matplotlib |
+| 📊 [Ad vs PSA A/B Testing](https://github.com/deepaliattavar/ad-vs-psa-AB-Testing) | Large-scale marketing experiment (588K users) measuring causal impact of Ads vs PSAs; built logistic regression model (ROC-AUC 0.854) for conversion prediction |
+| 🚛 [Fleet Safety Risk Analysis](https://github.com/deepaliattavar/Fleet-Safety-Risk-Analysis) | Big data analytics using Hadoop, Hive, and Tableau to identify high-risk drivers, unsafe behaviors, and geographic safety hotspots |
+| 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Delivery time prediction using XGBoost with 190K+ orders; improved accuracy through feature engineering and outlier handling |
+| 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Machine learning classification pipeline with PCA-based dimensionality reduction (~55% feature reduction, 95% variance retained) achieving ~98% accuracy |
+| 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Relational database system in MySQL for real-time parking tracking, automated billing, and operational reporting |
 
 
 ## 🌐 Socials:
