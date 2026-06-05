@@ -1,6 +1,6 @@
 # 👩‍💻 Deepali Attavar
 
-## 🎓 Graduate Student | Business Analytics & Artificial Intelligence @ UT Dallas  
+## 🎓 Graduate Student | Business Analytics & AI @ UT Dallas  
 ### 📊 Machine Learning • Data Science • Big Data Analytics
 
 I am a graduate student specializing in **Machine Learning, Data Analytics, and Big Data systems**, with experience building end-to-end data-driven solutions that transform raw data into actionable insights.
