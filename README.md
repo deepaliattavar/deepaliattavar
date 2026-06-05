@@ -52,6 +52,6 @@ I enjoy solving real-world problems using **machine learning, experimentation, a
 | 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Built a MySQL-based relational system for real-time parking management with automated billing and structured schema design. |
 
 
-## 🌐 Let's Coonect:
+## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepali-attavar) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepali.attavar@gmail.com) 
