@@ -1,10 +1,24 @@
-# 👩‍💻 About Me
-- 🎓 Graduate student in Business Analytics & Artificial Intelligence at UT Dallas  
-- 📊 Passionate about using data to uncover insights and automate processes and drive smarter decisions 
-- 🧠 Skilled in machine learning, data visualization, and cloud-based analytics  
-- 🔧 Experienced in solving real-world problems using Python, SQL, and BI tools  
-- 🤝 Enjoy mentoring peers, publishing research, and exploring tech for good
+# 👩‍💻 Deepali Attavar
 
+## 🎓 Graduate Student | Business Analytics & Artificial Intelligence @ UT Dallas  
+### 📊 Machine Learning • Data Science • Big Data Analytics
+
+I am a graduate student specializing in **Machine Learning, Data Analytics, and Big Data systems**, with experience building end-to-end data-driven solutions that transform raw data into actionable insights.
+
+I enjoy solving real-world problems using **machine learning, experimentation, and scalable data pipelines**, with a focus on measurable impact and decision-making.
+
+---
+
+## 🚀 Core Expertise
+
+- 🤖 Machine Learning & Predictive Modeling  
+- 📊 A/B Testing & Experimentation (Causal Inference)  
+- 🧠 Natural Language Processing (NLP)  
+- ⚙️ Big Data Systems (Hadoop, Hive, Spark concepts)  
+- 📈 Data Visualization & Business Intelligence  
+- 🗄️ SQL & Database Systems  
+
+---
 
 ## 🧰 Tech Stack & Tools
 #### 🖥️ Programming Languages 
@@ -40,11 +54,25 @@ Here are some of the projects I’m most proud of:
 
 | Project | Description |
 |--------|-------------|
-| 📊 [Ad vs PSA A/B Testing](https://github.com/deepaliattavar/ad-vs-psa-AB-Testing) | Large-scale marketing experiment (588K users) measuring causal impact of Ads vs PSAs; built logistic regression model (ROC-AUC 0.854) for conversion prediction |
-| 🚛 [Fleet Safety Risk Analysis](https://github.com/deepaliattavar/Fleet-Safety-Risk-Analysis) | Big data analytics using Hadoop, Hive, and Tableau to identify high-risk drivers, unsafe behaviors, and geographic safety hotspots |
-| 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Delivery time prediction using XGBoost with 190K+ orders; improved accuracy through feature engineering and outlier handling |
-| 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Machine learning classification pipeline with PCA-based dimensionality reduction (~55% feature reduction, 95% variance retained) achieving ~98% accuracy |
-| 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Relational database system in MySQL for real-time parking tracking, automated billing, and operational reporting |
+| 📊 [Ad vs PSA A/B Testing](https://github.com/deepaliattavar/ad-vs-psa-AB-Testing) | Large-scale experimentation on **588K+ users** to evaluate Ads vs Public Service Announcements.
+- Built logistic regression models for conversion prediction  
+- Achieved **ROC-AUC: 0.854**  
+- Generated insights on marketing effectiveness and user behavior  |
+| 🚛 [Fleet Safety Risk Analysis](https://github.com/deepaliattavar/Fleet-Safety-Risk-Analysis) | BDesigned a scalable analytics pipeline using **Hadoop and Hive** to analyze truck telematics data.
+- Identified high-risk drivers using behavioral scoring models  
+- Detected unsafe driving patterns and geographic hotspots  
+- Supported data-driven fleet safety optimization  |
+| 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Built predictive models using **190K+ delivery records** to estimate delivery times.
+- Engineered temporal and spatial features  
+- Used XGBoost and Random Forest models  
+- Improved prediction accuracy through feature optimization and outlier handling  |
+| 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Developed a high-performance classification pipeline using PCA-based feature reduction.
+- Reduced feature space by **55% while retaining 95% variance**  
+- Achieved **~98% model accuracy**  
+- Built end-to-end preprocessing and modeling workflow  |
+| 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Designed a relational database system for real-time parking management.
+- Implemented automated billing and slot tracking  
+- Built structured MySQL schema for efficient operations |
 
 
 ## 🌐 Socials:
