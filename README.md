@@ -52,27 +52,15 @@ I enjoy solving real-world problems using **machine learning, experimentation, a
 
 Here are some of the projects I’m most proud of:
 
-| Project | Description |
-|--------|-------------|
-| 📊 [Ad vs PSA A/B Testing](https://github.com/deepaliattavar/ad-vs-psa-AB-Testing) | Large-scale experimentation on **588K+ users** to evaluate Ads vs Public Service Announcements.
-- Built logistic regression models for conversion prediction  
-- Achieved **ROC-AUC: 0.854**  
-- Generated insights on marketing effectiveness and user behavior  |
-| 🚛 [Fleet Safety Risk Analysis](https://github.com/deepaliattavar/Fleet-Safety-Risk-Analysis) | BDesigned a scalable analytics pipeline using **Hadoop and Hive** to analyze truck telematics data.
-- Identified high-risk drivers using behavioral scoring models  
-- Detected unsafe driving patterns and geographic hotspots  
-- Supported data-driven fleet safety optimization  |
-| 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Built predictive models using **190K+ delivery records** to estimate delivery times.
-- Engineered temporal and spatial features  
-- Used XGBoost and Random Forest models  
-- Improved prediction accuracy through feature optimization and outlier handling  |
-| 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Developed a high-performance classification pipeline using PCA-based feature reduction.
-- Reduced feature space by **55% while retaining 95% variance**  
-- Achieved **~98% model accuracy**  
-- Built end-to-end preprocessing and modeling workflow  |
-| 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Designed a relational database system for real-time parking management.
-- Implemented automated billing and slot tracking  
-- Built structured MySQL schema for efficient operations |
+## 📌 Featured Projects
+
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 📊 [Ad vs PSA A/B Testing](https://github.com/deepaliattavar/ad-vs-psa-AB-Testing) | Large-scale experimentation on **588K+ users** to evaluate Ads vs Public Service Announcements. Built logistic regression models for conversion prediction with **ROC-AUC: 0.854**, generating insights on marketing effectiveness and user behavior. |
+| 🚛 [Fleet Safety Risk Analysis](https://github.com/deepaliattavar/Fleet-Safety-Risk-Analysis) | Designed a scalable analytics pipeline using **Hadoop and Hive** to process truck telematics data and identify high-risk drivers using behavioral scoring and geospatial hotspot detection. |
+| 🚚 [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash_ETA_Prediction) | Built ML models using **190K+ delivery records** to predict delivery time. Engineered temporal and spatial features and improved accuracy using XGBoost and Random Forest models. |
+| 🔍 [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction) | Developed a classification pipeline with PCA-based dimensionality reduction, reducing features by **55% while retaining 95% variance**, achieving ~**98% accuracy**. |
+| 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Built a MySQL-based relational system for real-time parking management with automated billing and structured schema design. |
 
 
 ## 🌐 Socials:
