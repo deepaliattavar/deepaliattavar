@@ -39,18 +39,7 @@ I enjoy solving real-world problems using **machine learning, experimentation, a
 #### ⚙️ Tools & Platforms  
 ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaliattavar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## ✍️ Random Dev Quote
-> 💬 **"Data is not just numbers... it’s a story waiting to be told, a decision waiting to be made, and a solution waiting to be built."**
-
-
-## 📌 Featured Projects
-
-Here are some of the projects I’m most proud of:
+---
 
 ## 📌 Featured Projects
 
@@ -63,6 +52,6 @@ Here are some of the projects I’m most proud of:
 | 🅿️ [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System) | Built a MySQL-based relational system for real-time parking management with automated billing and structured schema design. |
 
 
-## 🌐 Socials:
+## 🌐 Let's Coonect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepali-attavar) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepali.attavar@gmail.com) 
